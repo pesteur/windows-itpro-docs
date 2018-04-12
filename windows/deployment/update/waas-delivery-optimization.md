@@ -36,7 +36,7 @@ For more details, see [Download mode](#download-mode).
 You can use Group Policy or an MDM solution like Intune to configure Delivery Optimization. 
 
 You will find the Delivery Optimization settings in Group Policy under **Configuration\Policies\Administrative Templates\Windows Components\Delivery Optimization**.
-In MDM, the same settings are under **.Vendor/MSFT/Policy/Config/DeliveryOptimization/**.
+In MDM, the same settings are under **./Vendor/MSFT/Policy/Config/DeliveryOptimization/**.
 
 Several Delivery Optimization features are configurable:
 
